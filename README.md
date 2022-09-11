@@ -1,12 +1,9 @@
-### Hi there 👋
-
-<!--
-**Carlos0321/Carlos0321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<h3 align="center">Tech Stack</h3>
 
-<img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<p align= "center">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![]<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Spring-F7DF1E?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Spring Boot-F7DF1E?style=flat-square&logo=Spring Boot &logoColor=white"/></a>&nbsp![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
