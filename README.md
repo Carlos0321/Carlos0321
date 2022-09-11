@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minwoo%20Kim%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=MinWoo%20Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
+
 
 ### Hi there, I'm Minwoo Kim ! 😃
  
@@ -7,15 +8,12 @@
  * CWS [자동차 통합 서비스 제공 시스템]
  #### TEAM PROJECT  
  * Vendredi [맛집 통합 서비스 제공 시스템] 
- * 
-<h3 align="center">Tech Stacks</h3>
-
+  
+## 💻 Tech Stacks 💻
+<div align="center">
 <p align="center"><Tech i've used least one </p>
 
-<img alt ="Java" src="http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>  
- <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
- <img alt ="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>   <img alt ="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/> 
+<img alt ="Java" src="http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img alt ="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>   <img alt ="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/> 
  
  
  
@@ -26,7 +24,7 @@
  
  <img alt ="MySql" src="https://img.shields.io/badge/Mysql-2300f.svg?style=for-the-badge&logo=Mysql&logoColor=white"/> 
  <img alt ="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/> 
-
-
-![Carlos0321's github stats](https://github-readme-stats.vercel.app/api?username=Carlos0321&show_icons=true&thema=radical)
+ </div>
+## 🌹 It's Me 🌹
+![Carlos0321's github stats](https://github-readme-stats.vercel.app/api?username=Carlos0321&show_icons=true&theme=radical)
 [![Carlos0321's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0321&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Carlos0321)
