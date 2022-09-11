@@ -24,7 +24,8 @@
  
  <img alt ="MySql" src="https://img.shields.io/badge/Mysql-2300f.svg?style=for-the-badge&logo=Mysql&logoColor=white"/> 
  <img alt ="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/> 
- </div>
+
 ## 🌹 It's Me 🌹
 ![Carlos0321's github stats](https://github-readme-stats.vercel.app/api?username=Carlos0321&show_icons=true&theme=radical)
 [![Carlos0321's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos0321&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Carlos0321)
+ </div>
