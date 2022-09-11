@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minwoo%20Kim%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Minwoo%20Kim%20&fontSize=90)
 <h3 align="center">Tech Stacks</h3>
 
 <p align="center"><Tech i've used least one </p>
