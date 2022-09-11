@@ -8,9 +8,10 @@
  * CWS [자동차 통합 서비스 제공 시스템]
  #### TEAM PROJECT  
  * Vendredi [맛집 통합 서비스 제공 시스템] 
-  
+ * 
+<div align="center">  
 ## 💻 Tech Stacks 💻
-<div align="center">
+
 <p align="center"><Tech i've used least one </p>
 
 <img alt ="Java" src="http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img alt ="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>   <img alt ="JQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=JQuery&logoColor=white"/> 
